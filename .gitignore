@@ -1,0 +1,7 @@
+aws-key*
+azure-key*
+.terraform*
+*.out
+*.tfvars
+*.tfstate*
+.idea
